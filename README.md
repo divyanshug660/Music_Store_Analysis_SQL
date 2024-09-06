@@ -6,4 +6,6 @@ I started by creating a fully functional database in MS SQL Server, followed by 
 
 This project highlights my ability to handle real-world data scenarios, from database creation to complex query execution.
 
-Hope you like it. 😉
+# Database and Tools
+
+MS SQL Server
